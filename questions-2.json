@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Nigeria is located in which part of Africa?",
+        "choice1": "West Africa",
+        "choice2": "East Africa",
+        "choice3": "North Africa",
+        "choice4": "Southern Africa",
+        "answer": 1
+     },
+     {
+        "question": "Who is the first executive president of Nigeria?",
+        "choice1": "Alh Sir Abubakar Tafawa Balewa.",
+        "choice2": "General Yakubu Gowon",
+        "choice3": "Alhaji Shehu Shagari",
+        "choice4": "Dr Nnamdi Azikwe",
+        "answer": 3
+     },
+     {
+        "question": "What do the two horses on the Nigerian coat of arm represent?",
+        "choice1": "Respect",
+        "choice2": "Welfare",
+        "choice3": "Strength",
+        "choice4": "Dignity",
+        "answer": 4
+     },
+     {
+        "question": "Who was the first Nigerian and African to become a Noble Laureate?",
+        "choice1": "Alh Sir Abubakar Tafawa Balewa.",
+        "choice2": "Wole Soyinka",
+        "choice3": "Shehu Shagari",
+        "choice4": "Ibrahim Badamasi",
+        "answer": 2
+     },
+     {
+        "question": "The national animal emblem of Nigeria is an:",
+        "choice1": "Elephant",
+        "choice2": "Elk",
+        "choice3": "Earwig",
+        "choice4": "Eagle",
+        "answer": 4
+     },
+     {
+        "question": "Aliko Dangote is (at 2014) Africa's foremost:",
+        "choice1": "Businessman",
+        "choice2": "Tennis Player",
+        "choice3": "Enterprenuer",
+        "choice4": "Marathon runner",
+        "answer": 1
+     },
+     {
+        "question": "Nigeria's international telephone country code is:",
+        "choice1": "455",
+        "choice2": "233",
+        "choice3": "911",
+        "choice4": "234",
+        "answer": 4
+     },
+     {
+        "question": "What does the white colour in Nigerian flag stand for?",
+        "choice1": "Freedom",
+        "choice2": "Welfare",
+        "choice3": "Strength",
+        "choice4": "Peace",
+        "answer": 4
+     },
+     {
+        "question": "Who designed the Nigerian flag?",
+        "choice1": "Grace Alele Williams",
+        "choice2": "Michael Taiwo Akinkunmi",
+        "choice3": "Ahmed Musa",
+        "choice4": "Muhammad kudu Abubakar",
+        "answer": 2
+     },
+     {
+        "question": "How many native languages are spoken in Nigeria?",
+        "choice1": "50",
+        "choice2": "30",
+        "choice3": "500+",
+        "choice4": "10",
+        "answer": 3
+     }
+]
