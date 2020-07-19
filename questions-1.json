@@ -1,0 +1,83 @@
+[
+    {
+        "question": "How many colors are there in the national flag of Nigeria?",
+        "choice1": "2",
+        "choice2": "3",
+        "choice3": "4",
+        "choice4": "5",
+        "answer": 1
+     },
+     {
+        "question": "The most widely native spoken language in Nigeria is:",
+        "choice1": "Hausa",
+        "choice2": "Igbo",
+        "choice3": "Yoruba",
+        "choice4": "English",
+        "answer": 1
+     },
+     {
+        "question": "Nigeria consists of Federal Capital Territory and _____ autonomous states.",
+        "choice1": "26 states",
+        "choice2": "36 states",
+        "choice3": "31 states",
+        "choice4": "35 states",
+        "answer": 2
+     },
+     {
+        "question": "Nigeria is popularly known as?",
+        "choice1": "The Energy of Africa",
+        "choice2": "The Giant of Africa",
+        "choice3": "The Minion of Africa",
+        "choice4": "The Dwarf of Africa",
+        "answer": 2
+     },
+     {
+        "question": "Which state in Nigeria has the smallest number of LGAs(6):",
+        "choice1": "Taraba",
+        "choice2": "Gombe",
+        "choice3": "Ogun",
+        "choice4": "FCT",
+        "answer": 4
+     },
+     {
+        "question": "Adamawa state was named after the warrior ____ that conquered the region in the beginning of the 19th century.",
+        "choice1": "Modibbo Adama Bin Ardo Hassan",
+        "choice2": "Modibbo Adama Bin Usman",
+        "choice3": "Modibbo Adama Ardo Hassan",
+        "choice4": "Modibbo Adama",
+        "answer": 1
+     },
+     {
+        "question": "Which of these states is former capital of Nigeria:",
+        "choice1": "FCT",
+        "choice2": "Kano state",
+        "choice3": "Lagos state",
+        "choice4": "Zamfara state",
+        "answer": 3
+     },
+     {
+        "question": "Nigeria gains her independence on 1st October, ____.",
+        "choice1": "1959",
+        "choice2": "1957",
+        "choice3": "1960",
+        "choice4": "1919",
+        "answer": 3
+     },
+     {
+        "question": "The “motto” of Nigeria is?",
+        "choice1": "Unity, Faith, and Discipline.",
+        "choice2": "Unity and Faith, Peace and Progress.",
+        "choice3": "Unity, Discipline, Development",
+        "choice4": "Development and Prosperity.",
+        "answer": 2
+     },
+     {
+        "question": "Nigeria got independence on 1 October 1960 from?",
+        "choice1": "British Rule",
+        "choice2": "Algeria",
+        "choice3": "United States",
+        "choice4": "France",
+        "answer": 1
+     },
+  
+]
