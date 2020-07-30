@@ -1,0 +1,213 @@
+ {
+      question: "Nigeria is the African continent’s largest economy, as well as its largest _________ producer.",
+      choice1: "Gemstone",
+      choice2: "Yam",
+      choice3: "Rice",
+      choice4: "Oil",
+      answer: 4
+   },
+   {
+      question: "Bakassi Peninsula was transferred from Nigeria to Cameroon on 14 August, ____.",
+      choice1: "2008",
+      choice2: "2010",
+      choice3: "1990",
+      choice4: "2002",
+      answer: 1
+   },
+   {
+      question: "Militant organization Boko Haram was founded in a year_____?",
+      choice1: "2010",
+      choice2: "2006",
+      choice3: "2004",
+      choice4: "2002",
+      answer: 4
+   },
+   {
+      question: "After regaining democracy in 1999, who became president of Nigeria?",
+      choice1: "Muhammadu Buhari",
+      choice2: "Olusegun Obasanjo",
+      choice3: "Umaru Musa Yar’Adua",
+      choice4: "Abdulsalami Abubakar",
+      answer: 2
+   },
+   {
+      question: "Nigerian civil war was lasted from _____ to _____.",
+      choice1: "1965, 1968",
+      choice2: "1967, 1970",
+      choice3: "1969, 1972",
+      choice4: "1971, 1974",
+      answer: 2
+   },
+   {
+       question: "What does the eagle in the Nigerian coat of arm represent?",
+       choice1: "Freedom",
+       choice2: "Welfare",
+       choice3: "Strength",
+       choice4: "Peace",
+       answer: 3
+    },
+    
+    {
+      question: "Who was the Nigeria's first prime minister?",
+      choice1: "Alh Sir Abubakar Tafawa Balewa.",
+      choice2: "General Yakubu Gowon",
+      choice3: "Alhaji Shehu Shagari",
+      choice4: "Dr Nnamdi Azikwe",
+      answer: 1
+   },
+   {
+      question: "The first Coronavirus case was reported in Nigeria on?",
+      choice1: "28 Janauary, 2020",
+      choice2: "15 January, 2020",
+      choice3: "28 February, 2020",
+      choice4: "03 March, 2020",
+      answer: 3
+   },
+   {
+      question: "Nigeria recorded her first Corona Virus case through a foreigner who happens to be a citizen of?",
+      choice1: "Germany",
+      choice2: "Spain",
+      choice3: "USA",
+      choice4: "Italy",
+      answer: 4
+   },
+   {
+      question: "The total area of Nigeria is _____ square kilometer.",
+      choice1: "723,768",
+      choice2: "823,768",
+      choice3: "929,768",
+      choice4: "1029,768",
+      answer: 3
+   },
+   {
+      question: "The total population of Nigeria (2020 estimate) is about:",
+      choice1: "191 million",
+      choice2: "206 million",
+      choice3: "211 million",
+      choice4: "221 million",
+      answer: 2
+   },
+   {
+       question: "Nigeria won the African Nations Cup 3 times in the years ___, ___ and ___",
+       choice1: "1999, 2002 and 2013",
+       choice2: "2000, 2005 and 2010",
+       choice3: "1980, 1994 and 2013",
+       choice4: "1991, 2001 and 2011",
+       answer: 3
+    },
+    {
+      question: " When did Nigerian Golden eaglets win the world under-17 FIFA world cup?",
+      choice1: "1985, 1993, 2007 and 2013",
+      choice2: "2000, 2001 2005 and 2010",
+      choice3: "1980, 1993, 1994 and 2013",
+      choice4: "1991, 2000, 2001 and 2011",
+      answer: 1
+   },
+    {
+       question: "In which year Nigeria got its first democratical elected president?",
+       choice1: 'October, 1960',
+       choice2: 'October, 1970',
+       choice3: 'October, 1980',
+       choice4: 'October, 1979',
+       answer: 4
+    },
+    
+   {
+      question: "When was Nigeria formed?",
+      choice1: '1914',
+      choice2: '1960',
+      choice3: '1919',
+      choice4: '1966',
+      answer: 1
+   },
+    {
+      question: "Who is the India's largest trading partner in Africa?",
+      choice1: "Mauritus",
+      choice2: "Morroco",
+      choice3: "South Africa",
+      choice4: "Nigeria",
+      answer: 4
+   },
+
+    {
+      question: "Nigeria is a member of the following organizations except:",
+      choice1: 'African Union',
+      choice2: 'G-20',
+      choice3: 'G-19',
+      choice4: 'Interpol',
+      answer: 2
+   },
+    {
+       question: "Nigeria's internet country top level domain is:",
+       choice1: '.ne',
+       choice2: '.ni',
+       choice3: '.ng',
+       choice4: 'nr',
+       answer: 3
+    },
+    {
+       question: "The vast goegraphical feature called 'Chad' which forms a border between Nigeria, Chad, Cameroon and Niger, is:",
+       choice1: 'Lake',
+       choice2: 'Mountain',
+       choice3: 'River',
+       choice4: 'Desert',
+       answer: 1
+    },
+    {
+       question: "Mal. Aliyu Mai-Bornu & Dr Clement Isong's portrait features on the N1,000 note brought into circulation on:",
+       choice1: 'October 12, 2005',
+       choice2: 'October 12, 2000',
+       choice3: 'January 01, 2010',
+       choice4: 'October 01, 2003',
+       answer: 1
+    },
+    {
+       question: "Grace Atinuke Oyelude the first Miss Nigeria from the year 1957 was born & brought up in:",
+       choice1: 'Kogi state',
+       choice2: 'Kano state',
+       choice3: 'Lagos state',
+       choice4: 'Zamfara state',
+       answer: 2
+    },
+   {
+      question: "Which of these LGAs is capital of Lagos state:",
+      choice1: 'Lagos Mainland',
+      choice2: 'Apapa Lagos',
+      choice3: 'Ibeju-Lekki',
+      choice4: 'Ikeja',
+      answer: 4
+   },
+   {
+      question: "Nigeria is divided into how many geopolitical zones?",
+      choice1: 'Four (4) geopolitical zones',
+      choice2: 'Six (6) geopolitical zones',
+      choice3: 'Eight (8) geopolitical zones',
+      choice4: 'Seven (7) geopolitical zones',
+      answer: 2
+   },
+    {
+      question: "What was the first capital city in Nigeria?",
+      choice1: 'Umahia',
+      choice2: 'Calabar',
+      choice3: 'Yola',
+      choice4: 'Gusau',
+      answer: 2
+   },
+   {
+      question: "The largest city in Africa is?",
+      choice1: 'Agadir',
+      choice2: 'Lagos',
+      choice3: 'Cairo',
+      choice4: 'Johannesburg',
+      answer: 2
+   },
+   {
+      question: "Which of the following statement(s) is/are true about Nigeria?",
+      choice1: 'Nigeria is the most populous country in Africa.',
+      choice2: 'Nigeria is Africa’s biggest oil exporter.',
+      choice3: 'Nigeria has the largest natural gas reserves.',
+      choice4: 'All statements are true.',
+      answer: 4
+   },
+    
+    
