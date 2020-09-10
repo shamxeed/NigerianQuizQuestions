@@ -1,8 +1,7 @@
-[
+
     {
         "question": "Adamawa state was named after the warrior ____ that conquered the region in the beginning of the 19th century.",
         "choice": ["Modibbo Adama Bin Ardo Hassan", "Modibbo Adama Bin Usman", "Modibbo Adama Ardo Hassan", "Modibbo Adama"],
         "answer": "Modibbo Adama Bin Ardo Hassan",
         "alpha": ["a", "b", "c", "d"]
      }
-]
