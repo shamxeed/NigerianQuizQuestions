@@ -1,7 +1,104 @@
 
-    {
-        "question": "Adamawa state was named after the warrior ____ that conquered the region in the beginning of the 19th century.",
-        "choice": ["Modibbo Adama Bin Ardo Hassan", "Modibbo Adama Bin Usman", "Modibbo Adama Ardo Hassan", "Modibbo Adama"],
-        "answer": "Modibbo Adama Bin Ardo Hassan",
-        "alpha": ["a", "b", "c", "d"]
-     }
+    [
+        {
+            "question": "Adamawa state was named after the warrior ____ that conquered the region in the beginning of the 19th century.",
+            "answerOptions": [
+                {"answerText": "Modibbo Adama Bin Ardo Hassan", "isCorrect": true}, 
+                {"answerText": "Modibbo Adama Bin Usman", "isCorrect": false}, 
+                {"answerText": "Modibbo Adama Ardo Hassan", "isCorrect": false},
+                {"answerText":  "Modibbo Adama"}
+            ],
+            "alpha": ["a", "b", "c", "d"]
+         },
+         {
+            "question": "Which of these states is former capital of Nigeria:",
+            "answerOptions": [
+                {"answerText": "FCT", "isCorrect": false}, 
+                {"answerText": "Kano state", "isCorrect": false}, 
+                {"answerText": "Lagos state", "isCorrect": true},
+                {"answerText":  "Zamfara state", "isCorrect": false}
+            ],
+            "alpha": ["a", "b", "c", "d"]
+         },
+         {
+            "question": "Nigeria gains her independence on 1st October, ____.",
+            "answerOptions": [
+                {"answerText": "1959", "isCorrect": false}, 
+                {"answerText": "1957", "isCorrect": false}, 
+                {"answerText": "1960", "isCorrect": true},
+                {"answerText":  "1919", "isCorrect": false}
+            ],
+            "alpha": ["a", "b", "c", "d"]
+         },
+         {
+            "question": "Nigeria got independence on 1 October 1960 from?",
+            "answerOptions": [
+                {"answerText": "British Rule", "isCorrect": true},
+                {"answerText": "United States fo America", "isCorrect": false}, 
+                {"answerText": "France", "isCorrect": false},
+                {"answerText":  "China", "isCorrect": false}
+            ],
+            "alpha": ["a", "b", "c", "d"]
+         },
+         {
+            "question": "Nigeria consists of Federal Capital Territory and _____ autonomous states.",
+            "answerOptions": [
+                {"answerText": "26 states", "isCorrect": false},
+                {"answerText": "36 states", "isCorrect": true}, 
+                {"answerText": "31 states", "isCorrect": false},
+                {"answerText":  "35 states", "isCorrect": false}
+            ],
+            "alpha": ["a", "b", "c", "d"]
+         },
+         {
+            "question": "The “motto” of Nigeria is?",
+            "answerOptions": [
+                {"answerText": "Unity, Faith, and Discipline.", "isCorrect": false}, 
+                {"answerText": "Unity and Faith, Peace and Progress.", "isCorrect": true}, 
+                {"answerText": "Unity, Discipline, Development", "isCorrect": false},
+                {"answerText":  "Development and Prosperity.", "isCorrect": false}
+            ],
+            "alpha": ["a", "b", "c", "d"]
+         },
+         {
+            "question": "How many colors are there in the national flag of Nigeria?",
+            "answerOptions": [
+                {"answerText": "3", "isCorrect": false}, 
+                {"answerText": "2", "isCorrect": true}, 
+                {"answerText": "4", "isCorrect": false},
+                {"answerText":  "5", "isCorrect": false}
+            ],
+            "alpha": ["a", "b", "c", "d"]
+         },
+         {
+            "question": "Nigeria is popularly known as?",
+            "answerOptions": [
+                {"answerText": "The Energy of Africa", "isCorrect": false}, 
+                {"answerText": "The Giant of Africa", "isCorrect": true}, 
+                {"answerText": "The Minion of Africa", "isCorrect": false},
+                {"answerText":  "The Dwarf of Africa", "isCorrect": false}
+            ],
+            "alpha": ["a", "b", "c", "d"]
+         },
+         {
+            "question": "Which state in Nigeria has the smallest number of LGAs(6):",
+            "answerOptions": [
+                {"answerText": "Taraba", "isCorrect": false}, 
+                {"answerText": "Gombe", "isCorrect": false}, 
+                {"answerText": "Ogun", "isCorrect": false},
+                {"answerText":  "FCT", "isCorrect": true}
+            ],
+            "alpha": ["a", "b", "c", "d"]
+         },
+         {
+            "question": "The most widely native speaking language in Nigeria is:",
+            "answerOptions": [
+                {"answerText": "Hausa", "isCorrect": true}, 
+                {"answerText": "Igbo", "isCorrect": false}, 
+                {"answerText": "Yoruba", "isCorrect": false},
+                {"answerText":  "Fulani", "isCorrect": false}
+            ],
+            "alpha": ["a", "b", "c", "d"]
+         }
+    
+    ]
