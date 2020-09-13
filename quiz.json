@@ -6,7 +6,7 @@
                 {"answerText": "Modibbo Adama Bin Ardo Hassan", "isCorrect": true}, 
                 {"answerText": "Modibbo Adama Bin Usman", "isCorrect": false}, 
                 {"answerText": "Modibbo Adama Ardo Hassan", "isCorrect": false},
-                {"answerText":  "Modibbo Adama"}
+                {"answerText":  "Modibbo Adama", "isCorrect": false}
             ],
             "alpha": ["a", "b", "c", "d"]
          },
