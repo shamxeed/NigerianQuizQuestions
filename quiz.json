@@ -1,6 +1,17 @@
 
     [
         {
+            "question": "Nigeria is located in which part of Africa?",
+            "answerOptions": [
+                {"answerText": "West Africa", "isCorrect": true},
+                {"answerText": "East Africa", "isCorrect": false},
+                {"answerText": "North Africa", "isCorrect": false},
+                {"answerText": "Southern Africa", "isCorrect": false}
+            ],
+            "alpha": ["a", "b", "c", "d"]
+         },
+        {
+            
             "question": "Adamawa state was named after the warrior ____ that conquered the region in the beginning of the 19th century.",
             "answerOptions": [
                 {"answerText": "Modibbo Adama Bin Ardo Hassan", "isCorrect": true}, 
